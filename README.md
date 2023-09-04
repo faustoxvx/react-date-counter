@@ -1,2 +1,2 @@
 # react-date-counter
-Created with CodeSandbox
+A quick exercise to practise state and date manipulation
